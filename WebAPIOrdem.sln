@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIOrdem", "WebAPIOrdem\WebAPIOrdem.csproj", "{AD775193-72DA-495A-8AEE-35CB26D5C565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD775193-72DA-495A-8AEE-35CB26D5C565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD775193-72DA-495A-8AEE-35CB26D5C565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD775193-72DA-495A-8AEE-35CB26D5C565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD775193-72DA-495A-8AEE-35CB26D5C565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1892B9-77E2-47C8-A4E1-8669E3653810}
+	EndGlobalSection
+EndGlobal
